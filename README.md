@@ -1,3 +1,3 @@
 Repository wiki.
 
-Type text or a website address
+Type text or a website URL
